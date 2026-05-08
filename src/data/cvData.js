@@ -3,7 +3,7 @@
 // ============================================================
 
 const CV_DATA = {
-  name: "Zohaib Ahmed",
+  name: "Muhammad Zohaib",
   title: "Full Stack Developer",
   contact: [
     {
@@ -16,9 +16,12 @@ const CV_DATA = {
       href: "https://maps.google.com/?q=Lahore,Pakistan",
     },
     { label: "zohaib.dev", href: "https://zohaib.dev" },
-    { label: "github.com/zohaib", href: "https://github.com/Zohaib-Amjad" },
     {
-      label: "linkedin.com/in/zohaib",
+      label: "github.com/Zohaib-Amjad",
+      href: "https://github.com/Zohaib-Amjad",
+    },
+    {
+      label: "linkedin.com/in/zohaibamjad1003",
       href: "https://linkedin.com/in/zohaibamjad1003",
     },
   ],
@@ -74,7 +77,13 @@ const CV_DATA = {
     },
   ],
   skills: {
-    Frontend: ["React.js", "Next.js", "Tailwind CSS", "Framer Motion", "TypeScript"],
+    Frontend: [
+      "React.js",
+      "Next.js",
+      "Tailwind CSS",
+      "Framer Motion",
+      "TypeScript",
+    ],
     Backend: ["Node.js", "Express.js", "REST APIs", "GraphQL", "MongoDB"],
     Tools: ["Git", "GitHub", "VS Code", "Figma", "Docker"],
     Other: ["Linux", "Agile/Scrum", "Problem Solving", "Team Leadership"],
