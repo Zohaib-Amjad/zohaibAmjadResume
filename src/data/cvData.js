@@ -15,7 +15,7 @@ const CV_DATA = {
       label: "Lahore, Pakistan",
       href: "https://maps.google.com/?q=Lahore,Pakistan",
     },
-    { label: "zohaib.dev", href: "https://zohaib.dev" },
+    { label: "zohaib1.netlify.app", href: "https://zohaib1.netlify.app/" },
     {
       label: "github.com/Zohaib-Amjad",
       href: "https://github.com/Zohaib-Amjad",
