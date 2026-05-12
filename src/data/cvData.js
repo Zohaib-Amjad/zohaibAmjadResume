@@ -77,7 +77,7 @@ const CV_DATA = {
     },
     {
       institution: "Al-Rehman Grammar School, Muridke",
-      degree: "Computer Science",
+      degree: "Matric, Computer Science",
       period: "2017 — 2019",
       detail: "Computer, Mathematics, Physics",
     },
