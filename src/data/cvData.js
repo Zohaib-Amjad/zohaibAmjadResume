@@ -70,10 +70,16 @@ const CV_DATA = {
       detail: "Development, Networks, Databases",
     },
     {
-      institution: "Govt. Associate College",
+      institution: "Govt. Associate College, Muridke",
       degree: "FSc Pre-Engineering",
       period: "2019 — 2021",
       detail: "Mathematics, Physics",
+    },
+    {
+      institution: "Al-Rehman Grammar School, Muridke",
+      degree: "Computer Science",
+      period: "2017 — 2019",
+      detail: "Computer, Mathematics, Physics",
     },
   ],
   skills: {
