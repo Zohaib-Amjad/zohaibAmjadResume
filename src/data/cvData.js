@@ -65,19 +65,19 @@ const CV_DATA = {
   education: [
     {
       institution: "Virtual University of Pakistan",
-      degree: "BS Software Engineering",
+      degree: "BS (Software Engineering)",
       period: "2021 — Continue",
       detail: "Development, Networks, Databases",
     },
     {
       institution: "Govt. Associate College, Muridke",
-      degree: "FSc Pre-Engineering",
+      degree: "FSc (Pre-Engineering)",
       period: "2019 — 2021",
       detail: "Mathematics, Physics",
     },
     {
       institution: "Al-Rehman Grammar School, Muridke",
-      degree: "Matric, Computer Science",
+      degree: "Matric (Computer Science)",
       period: "2017 — 2019",
       detail: "Computer, Mathematics, Physics",
     },
