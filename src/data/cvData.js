@@ -15,7 +15,7 @@ const CV_DATA = {
       label: "Lahore, Pakistan",
       href: "https://maps.google.com/?q=Lahore,Pakistan",
     },
-    { label: "zohaib1.netlify.app", href: "https://zohaib1.netlify.app/" },
+    { label: "Project-URL", href: "https://zohaib1.netlify.app/" },
     {
       label: "github.com/Zohaib-Amjad",
       href: "https://github.com/Zohaib-Amjad",
@@ -26,7 +26,7 @@ const CV_DATA = {
     },
   ],
   summary:
-    "Passionate full-stack developer with expertise in modern web technologies. I craft clean, performant applications and love solving complex problems with elegant code.",
+    "Emerging Full-Stack Web Developer with a passion for modern web technologies and a drive to build things that matter. I take a hands-on approach — working on real projects, writing clean code, and developing the skills that turn complex problems into simple, elegant solutions.",
   experience: [
     {
       company: "WPWizards",
@@ -107,14 +107,9 @@ const CV_DATA = {
       desc: "Built Neurostar site to strengthen practical development skills",
     },
     {
-      name: "nymcard",
-      tech: "Wordpress · CSS · Elementor",
+      name: "WordPress Builds",
+      tech: "nymcard.com · centerpeakfs.com · deanretire.com · lewmllc.com · upgrow.io · teacherspath.com",
       desc: "Built numcard under senior guidance to enhance development skills",
-    },
-    {
-      name: "Multiple Sites",
-      tech: "centerpeakfs.com · deanretire.com · lewmllc.com · upgrow.io · teacherspath.com",
-      // desc: "Drag-and-drop portfolio builder with custom subdomain support.",
     },
   ],
   languages: ["English (Professional)", "Urdu (Native)", "Punjabi (Native)"],
