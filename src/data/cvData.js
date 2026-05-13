@@ -92,7 +92,8 @@ const CV_DATA = {
       "HTML5",
     ],
     Backend: ["Yet to be explored"],
-    Tools: ["Git", "GitHub", "VS Code", "Figma"],
+    Tools: ["Git & GitHub", "VS Code", "npm / yarn", "Chrome DevTools"],
+    Deployment: ["Netlify", "Vercel", "GitHub Pages"],
     Other: [
       "Communication",
       "Problem Solving",
