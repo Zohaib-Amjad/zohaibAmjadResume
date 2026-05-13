@@ -109,7 +109,7 @@ const CV_DATA = {
     {
       name: "WordPress Builds",
       tech: "nymcard.com · centerpeakfs.com · deanretire.com · lewmllc.com · upgrow.io · teacherspath.com",
-      desc: "Built numcard under senior guidance to enhance development skills",
+      desc: "Built with Elementor",
     },
   ],
   languages: ["English (Professional)", "Urdu (Native)", "Punjabi (Native)"],
