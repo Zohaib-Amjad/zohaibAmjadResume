@@ -91,7 +91,7 @@ const CV_DATA = {
       "CSS3",
       "HTML5",
     ],
-    Backend: ["Still to approach"],
+    Backend: ["Yet to be explored"],
     Tools: ["Git", "GitHub", "VS Code", "Figma"],
     Other: [
       "Communication",
