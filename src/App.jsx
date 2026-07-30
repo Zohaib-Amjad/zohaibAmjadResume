@@ -6,10 +6,7 @@ export default function App() {
   const [theme, setTheme] = useState(() => {
     const savedTheme = localStorage.getItem("cv-theme");
 
-    if (savedTheme) return savedTheme;
-    return window.matchMedia("(prefers-color-scheme: dark)").matches
-      ? "dark"
-      : "light";
+    return savedTheme || "light";
   });
 
   useEffect(() => {
