@@ -6,6 +6,15 @@ const CV_DATA = {
   name: "Muhammad Zohaib",
   title: "Full Stack Developer",
   contact: [
+    { label: "PORTFOLIO", href: "https://zohaib1.netlify.app/" },
+    {
+      label: "LINKEDIN",
+      href: "https://linkedin.com/in/zohaibamjad1003",
+    },
+    {
+      label: "GITHUB",
+      href: "https://github.com/Zohaib-Amjad",
+    },
     {
       label: "zohaibamjad1003@gmail.com",
       href: "mailto:zohaibamjad1003@gmail.com",
@@ -15,15 +24,6 @@ const CV_DATA = {
       label: "Lahore, Pakistan",
       href: "https://maps.google.com/?q=Lahore,Pakistan",
     },
-    { label: "Project-URL", href: "https://zohaib1.netlify.app/" },
-    {
-      label: "github.com/Zohaib-Amjad",
-      href: "https://github.com/Zohaib-Amjad",
-    },
-    {
-      label: "linkedin.com/in/zohaibamjad1003",
-      href: "https://linkedin.com/in/zohaibamjad1003",
-    },
   ],
   summary:
     "Emerging Full-Stack Web Developer with a passion for modern web technologies and a drive to build things that matter. I take a hands-on approach — working on real projects, writing clean code, and developing the skills that turn complex problems into simple, elegant solutions.",
@@ -31,7 +31,7 @@ const CV_DATA = {
     {
       company: "WPWizards",
       role: "Wordpress Developer (Job)",
-      period: "1 Year (Continue)",
+      period: "1 Year 3 Months",
       location: "Lahore, Pakistan",
       points: [
         "Developed multiple pixel-perfect WordPress websites using Elementor",
@@ -85,15 +85,19 @@ const CV_DATA = {
   skills: {
     Frontend: [
       "React.js",
+      "Next.js",
+      "TypeScript",
       "Javascript",
       "Tailwind CSS",
       "Bootstrap",
       "CSS3",
       "HTML5",
     ],
-    Backend: ["Yet to be explored"],
-    Tools: ["Git & GitHub", "VS Code", "npm / yarn", "Chrome DevTools"],
-    Deployment: ["Netlify", "Vercel", "GitHub Pages"],
+    Backend: ["Supabase"],
+    CMS: ["Payload", "WordPress" ],
+    Editors: ["Cursor","VS Code", "Antigravity", ],
+    Tools: ["Git & GitHub", "npm / npx / pnpm / yarn / bun", "Chrome DevTools"],
+    Deployment: ["Railway", "Vercel", "Netlify" ],
     Other: [
       "Communication",
       "Problem Solving",
