@@ -5,7 +5,7 @@ import CVEducation from "./CVEducation";
 import CVProjects from "./CVProjects";
 import CVSkillsLanguages from "./CVSkillsLanguages";
 
-export default function CV() {
+export default function CV({ theme, onToggleTheme }) {
   const d = CV_DATA;
 
   return (
@@ -27,9 +27,23 @@ export default function CV() {
         </div>
       </div>
 
-      <button className="print-btn" onClick={() => window.print()}>
-        ⬇ Download / Print
-      </button>
+      <div className="cv-actions">
+        <button
+          className="action-btn theme-btn"
+          type="button"
+          onClick={onToggleTheme}
+          aria-label={`Switch to ${theme === "light" ? "dark" : "light"} theme`}
+        >
+          {theme === "light" ? "☾ Dark theme" : "☀ Light theme"}
+        </button>
+        <button
+          className="action-btn print-btn"
+          type="button"
+          onClick={() => window.print()}
+        >
+          ⬇ Download / Print
+        </button>
+      </div>
     </>
   );
 }
