@@ -6,7 +6,7 @@ const CV_DATA = {
   name: "Muhammad Zohaib",
   title: "Full Stack Developer",
   contact: [
-    { label: "PORTFOLIO", href: "https://zohaib1.netlify.app/" },
+    { label: "PORTFOLIO", href: "https://zohaibamjad-portfolio.vercel.app/" },
     {
       label: "LINKEDIN",
       href: "https://linkedin.com/in/zohaibamjad1003",
