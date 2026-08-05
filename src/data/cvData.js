@@ -20,6 +20,7 @@ const CV_DATA = {
       href: "mailto:zohaibamjad1003@gmail.com",
     },
     { label: "+92 316 4232384", href: "tel:+923164232384" },
+    { label: "+92 302 9629511", href: "tel:+923029629511" },
     {
       label: "Lahore, Pakistan",
       href: "https://maps.google.com/?q=Lahore,Pakistan",
@@ -106,6 +107,11 @@ const CV_DATA = {
     ],
   },
   projects: [
+    {
+      name: "Portfolio Site",
+      tech: "Next.js · Tailwind CSS · Vercel",
+      desc: "Personal portfolio showcasing projects, skills, and experience — zohaibamjad-portfolio.vercel.app",
+    },
     {
       name: "Neurostar",
       tech: "BS5 · CSS · HTML5",
